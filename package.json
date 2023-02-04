@@ -3,11 +3,17 @@
   "displayName": "Owl",
   "description": "dark theme for night owls",
   "version": "0.0.1",
+  "publisher": "simecek",
   "engines": {
     "vscode": "^1.75.0"
   },
   "categories": [
     "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "dark",
+    "owl"
   ],
   "contributes": {
     "themes": [
