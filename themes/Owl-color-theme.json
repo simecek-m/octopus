@@ -1862,7 +1862,7 @@
   "colors": {
     "foreground": "#ffffff",
     "focusBorder": "#2c2c41",
-    "selection.background": "#2c2c41",
+    "selection.background": "#0D0D17",
     "scrollbar.shadow": "#000000",
     "activityBar.foreground": "#ffffff",
     "activityBar.background": "#0d0d17",
@@ -1909,7 +1909,7 @@
     "titleBar.inactiveForeground": "#cccccc99",
     "titleBar.border": "#00000000",
     "menubar.selectionForeground": "#cccccc",
-    "menubar.selectionBackground": "#ffffff1a",
+    "menubar.selectionBackground": "#000000",
     "menu.foreground": "#cccccc",
     "menu.background": "#0d0d17",
     "menu.selectionForeground": "#ffffff",
