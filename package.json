@@ -2,7 +2,7 @@
   "name": "owl",
   "displayName": "Owl",
   "description": "dark theme for night owls",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "simecek",
   "engines": {
     "vscode": "^1.75.0"
@@ -15,6 +15,10 @@
     "dark",
     "owl"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/simecek-m/owl.git"
+  },
   "contributes": {
     "themes": [
       {
