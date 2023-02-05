@@ -127,14 +127,6 @@
       }
     },
     {
-      "name": "Markup test",
-      "scope": "entity.name.tag",
-      "settings": {
-        "foreground": "#FF0000",
-        "fontStyle": "bold"
-      }
-    },
-    {
       "name": "markup diff",
       "scope": "markup.changed.diff",
       "settings": {
@@ -786,15 +778,15 @@
       "name": "Tags",
       "scope": "entity.name.tag",
       "settings": {
-        "foreground": "#6096ff"
+        "foreground": "#5bd1b9",
+        "fontStyle": "bold"
       }
     },
     {
       "name": "Attributes",
       "scope": "entity.other.attribute-name",
       "settings": {
-        "foreground": "#ffffff",
-        "fontStyle": "bold"
+        "foreground": "#6096FF"
       }
     },
     {
@@ -815,7 +807,8 @@
       "name": "Attribute selector",
       "scope": "entity.name.tag.css",
       "settings": {
-        "foreground": "#f4457d"
+        "foreground": "#5bd1b9",
+        "fontStyle": "bold"
       }
     },
     {
@@ -1276,7 +1269,8 @@
       "name": "ts primitive/builtin types",
       "scope": "support.type.primitive.ts,support.type.builtin.ts,support.type.primitive.tsx,support.type.builtin.tsx",
       "settings": {
-        "foreground": "#5bd1b9"
+        "foreground": "#5bd1b9",
+        "fontStyle": "bold"
       }
     },
     {
@@ -1833,8 +1827,7 @@
       "name": "js/ts",
       "scope": "entity.other.attribute-name.js,entity.other.attribute-name.ts,entity.other.attribute-name.jsx,entity.other.attribute-name.tsx,variable.parameter,variable.language.super",
       "settings": {
-        "foreground": "#6096FF",
-        "fontStyle": "bold"
+        "foreground": "#6096FF"
       }
     },
     {
