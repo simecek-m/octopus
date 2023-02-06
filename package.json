@@ -2,7 +2,7 @@
   "name": "owl",
   "displayName": "Owl",
   "description": "dark theme for night owls",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "publisher": "simecek",
   "engines": {
     "vscode": "^1.75.0"
