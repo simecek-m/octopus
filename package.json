@@ -1,8 +1,8 @@
 {
-  "name": "owl",
-  "displayName": "Owl",
-  "description": "dark theme for night owls",
-  "version": "0.0.3",
+  "name": "octopus",
+  "displayName": "Octopus",
+  "description": "deep ocean dark theme",
+  "version": "0.0.4",
   "publisher": "simecek",
   "engines": {
     "vscode": "^1.75.0"
@@ -13,18 +13,21 @@
   "keywords": [
     "theme",
     "dark",
-    "owl"
+    "ocean",
+    "coral",
+    "blue"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/simecek-m/owl.git"
+    "url": "https://github.com/simecek-m/octopus"
   },
+  "icon": "icon.png",
   "contributes": {
     "themes": [
       {
-        "label": "Owl",
+        "label": "Deep Ocean",
         "uiTheme": "vs-dark",
-        "path": "./themes/Owl-color-theme.json"
+        "path": "./themes/Deep-ocean-color-theme.json"
       }
     ]
   }

@@ -6,6 +6,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 ## [Unreleased]
 
+## [v0.0.4] - 2022-02-08
+
 ### Added
 
 - changelog
@@ -20,6 +22,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 - terminal colors
 - change accent color to #8c63ff
 - menu separator color
+- rebrand (changed name, icon)
 
 ## [v0.0.3] - 2022-02-06
 
