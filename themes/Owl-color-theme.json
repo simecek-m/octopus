@@ -1900,7 +1900,7 @@
     "menu.selectionForeground": "#ffffff",
     "menu.selectionBackground": "#2c2c41",
     "menu.selectionBorder": "#00000000",
-    "menu.separatorBackground": "#bbbbbb",
+    "menu.separatorBackground": "#2c2c41",
     "menu.border": "#2c2c41",
     "button.background": "#8c63ff",
     "button.foreground": "#000000",
