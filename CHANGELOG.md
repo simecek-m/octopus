@@ -14,6 +14,10 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 - license
 
+### Changed
+
+- change accent color to #8c63ff
+
 ## [v0.0.3] - 2022-02-06
 
 ### Added
