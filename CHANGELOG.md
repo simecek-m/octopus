@@ -9,6 +9,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 ### Changed
 
 - redesign icon
+- accent color back to green
 
 ## [v0.0.4] - 2022-02-08
 
