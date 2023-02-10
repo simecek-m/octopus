@@ -1,0 +1,30 @@
+{
+  "firstName": "Jim",
+  "lastName": "Bill",
+  "email": "bill.jim@mail.com",
+  "company": {
+    "name": "Company a.s",
+    "address": {
+      "country": "United Kingdom",
+      "city": "Manchester"
+    },
+    "activeEmpoyees": 136
+  },
+  "teams": [
+    {
+      "name": "Colleagues",
+      "users": 4,
+      "admin": false
+    },
+    {
+      "name": "School",
+      "users": 3,
+      "admin": true
+    },
+    {
+      "name": "Empty",
+      "users": 0,
+      "admin": true
+    }
+  ]
+}
