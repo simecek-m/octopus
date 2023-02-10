@@ -1,0 +1,47 @@
+.link {
+  font-weight: 100;
+  font-style: italic;
+  cursor: pointer;
+  color: blueviolet;
+}
+
+.link:hover {
+  text-decoration: underline;
+  font-weight: bold;
+}
+
+#widget {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+}
+
+h1, h2, h3 {
+  color: blueviolet;
+  font-size: medium;
+  font-weight: bold;
+}
+
+button: {
+  font-size: large;
+  cursor: pointer;
+}
+
+button.outline {
+  color: blueviolet;
+  border: 2px solid blueviolet !important;
+  padding: 10px 20px;
+  background: transparent;
+  border-radius: 10px;
+}
+
+button:hover {
+  color: white;
+  background: blueviolet;
+}
+
+div.main > span {
+  color: blueviolet;
+  font-weight: bold;
+}
