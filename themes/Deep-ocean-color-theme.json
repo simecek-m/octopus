@@ -116,6 +116,14 @@
       "settings": {
         "foreground": "#51f1bc"
       }
+    },
+    {
+      "name": "docker",
+      "scope": "keyword.other.special-method",
+      "settings": {
+        "foreground": "#51f1bc",
+        "fontStyle": "bold"
+      }
     }
   ],
   "colors": {
