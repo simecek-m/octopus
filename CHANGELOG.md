@@ -6,6 +6,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 ## [Unreleased]
 
+## [v0.1.0] - 2023-03-07
+
 ### Added
 
 - syntax example file:
@@ -27,8 +29,9 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 - redesign icon
 - accent color back to green
+- syntax colors
 
-## [v0.0.4] - 2022-02-08
+## [v0.0.4] - 2023-02-08
 
 ### Added
 
@@ -46,7 +49,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 - menu separator color
 - rebrand (changed name, icon)
 
-## [v0.0.3] - 2022-02-06
+## [v0.0.3] - 2023-02-06
 
 ### Added
 
@@ -61,7 +64,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 - scrollbar shadows
 
-## [v0.0.2] - 2022-02-05
+## [v0.0.2] - 2023-02-05
 
 ### Changed
 
@@ -71,7 +74,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 - statusbar debugging color
 - HTML tags and React components have same color
 
-## [v0.0.1] - 2022-02-04
+## [v0.0.1] - 2023-02-04
 
 ### Added
 
