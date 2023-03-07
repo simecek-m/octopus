@@ -2,7 +2,7 @@
   "name": "octopus",
   "displayName": "Octopus",
   "description": "deep ocean dark theme",
-  "version": "0.0.4",
+  "version": "0.1.0",
   "publisher": "simecek",
   "engines": {
     "vscode": "^1.75.0"
