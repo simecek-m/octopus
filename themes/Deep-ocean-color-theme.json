@@ -104,7 +104,7 @@
     },
     {
       "name": "keywords assignment",
-      "scope": "keyword.operator.assignment, punctuation.separator.key-value",
+      "scope": "keyword.operator.assignment, punctuation.separator.key-value, meta.tag.svg",
       "settings": {
         "foreground": "#ffffff"
       }
@@ -202,8 +202,8 @@
       }
     },
     {
-      "name": "svg - tag attributes",
-      "scope": "meta.tag.svg",
+      "name": "svg - tag attributes separator",
+      "scope": "entity.other.attribute-name.localname.svg",
       "settings": {
         "foreground": "#b080ff"
       }
