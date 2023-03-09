@@ -1,8 +1,8 @@
 {
   "name": "octopus",
   "displayName": "Octopus",
-  "description": "deep ocean dark theme",
-  "version": "0.1.1",
+  "description": "water is life",
+  "version": "0.2.0",
   "publisher": "simecek",
   "engines": {
     "vscode": "^1.75.0"
@@ -12,7 +12,7 @@
   ],
   "keywords": [
     "theme",
-    "dark",
+    "octopus",
     "ocean",
     "coral",
     "blue"
@@ -27,7 +27,12 @@
       {
         "label": "Deep Ocean",
         "uiTheme": "vs-dark",
-        "path": "./themes/Deep-ocean-color-theme.json"
+        "path": "./themes/deep-ocean.json"
+      },
+      {
+        "label": "Coral Reef",
+        "uiTheme": "vs",
+        "path": "./themes/coral-reef.json"
       }
     ]
   }
