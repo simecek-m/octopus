@@ -80,7 +80,6 @@
         "foreground": "#ffffff"
       }
     },
-
     {
       "name": "keyword control",
       "scope": "keyword.control",
