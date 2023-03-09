@@ -28,6 +28,11 @@
         "label": "Deep Ocean",
         "uiTheme": "vs-dark",
         "path": "./themes/Deep-ocean-color-theme.json"
+      },
+      {
+        "label": "Coral Reef",
+        "uiTheme": "vs",
+        "path": "./themes/Coral-reef-color-theme.json"
       }
     ]
   }
