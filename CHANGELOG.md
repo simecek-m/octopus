@@ -6,6 +6,15 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 ## [Unreleased]
 
+## [v0.2.2] - 2023-03-10
+
+### Changed
+
+Coral Reef:
+
+- white statusbar remote foreground
+- black terminal cursor
+
 ## [v0.2.1] - 2023-03-10
 
 ### Changed
