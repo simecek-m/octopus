@@ -1,8 +1,8 @@
 {
   "name": "octopus",
   "displayName": "Octopus",
-  "description": "water is life",
-  "version": "0.2.0",
+  "description": "octopus vs code theme",
+  "version": "0.2.1",
   "publisher": "simecek",
   "engines": {
     "vscode": "^1.75.0"
