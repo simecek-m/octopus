@@ -12,6 +12,7 @@ Both (Deep Ocean / Coral Reef):
 
 - Git Decorations colors
 - gutter colors
+- diff editor colors
 
 Coral Reef:
 

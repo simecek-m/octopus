@@ -7,7 +7,7 @@
       "name": "string",
       "scope": "string",
       "settings": {
-        "foreground": "#EFA536"
+        "foreground": "#EE9839"
       }
     },
     {
@@ -331,11 +331,13 @@
     "editorGutter.foldingControlForeground": "#424242",
     "editorCodeLens.foreground": "#999999",
     "editorGroup.border": "#e7e7e7",
-    "diffEditor.insertedTextBackground": "#e9fff6",
-    "diffEditor.insertedTextBorder": "#ffffff00",
-    "diffEditor.removedTextBackground": "#ffeaed",
-    "diffEditor.removedTextBorder": "#ff000000",
-    "diffEditor.border": "#d7d7d700",
+    "diffEditor.insertedLineBackground": "#7FD4973D",
+    "diffEditor.insertedTextBackground": "#7FD4976D",
+    "diffEditor.removedLineBackground": "#FF0D0026",
+    "diffEditor.removedTextBackground": "#FF0D0021",
+    "diffEditor.border": "#00000000",
+    "diffEditor.removedTextBorder": "#00000000",
+    "diffEditor.insertedTextBorder": "#00000000",
     "panel.background": "#ffffff",
     "panel.border": "#DFDFDF",
     "panelTitle.activeBorder": "#12b874",
