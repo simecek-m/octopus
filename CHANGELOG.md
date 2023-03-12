@@ -13,6 +13,7 @@ Coral Reef:
 - input background color
 - highlight color
 - scrollbar colors
+- brighter list / tabs hover color
 
 ### Fixed
 
