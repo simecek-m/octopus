@@ -12,6 +12,7 @@ Coral Reef:
 
 - input background color
 - highlight color
+- scrollbar colors
 
 ### Fixed
 
