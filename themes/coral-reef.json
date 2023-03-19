@@ -314,7 +314,7 @@
     "editorBracketMatch.border": "#b9b9b9",
     "editor.foldBackground": "#add6ff4d",
     "editorOverviewRuler.background": "#25252500",
-    "editorOverviewRuler.border": "#7f7f7f4d",
+    "editorOverviewRuler.border": "#ffffff00",
     "editorError.foreground": "#e51400",
     "editorError.background": "#B73A3400",
     "editorError.border": "#ffffff00",
