@@ -2,6 +2,9 @@
   "name": "Coral Reef",
   "type": "light",
   "semanticHighlighting": true,
+  "semanticTokenColors": {
+    "class": "#8147DF"
+  },
   "tokenColors": [
     {
       "name": "string",

@@ -14,6 +14,10 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 - add example screenshots
 - add examples to README.md file
 
+### Fixed
+
+- classes color
+
 Both (Deep Ocean / Coral Reef):
 
 - hide scrollbar border

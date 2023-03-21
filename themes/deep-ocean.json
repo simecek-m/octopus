@@ -2,6 +2,9 @@
   "name": "Deep ocean",
   "type": "dark",
   "semanticHighlighting": true,
+  "semanticTokenColors": {
+    "class": "#b080ff"
+  },
   "tokenColors": [
     {
       "name": "string",
