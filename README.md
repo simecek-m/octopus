@@ -31,52 +31,65 @@ This theme has been created and tested for use with these file formats:
 
 ### HTML
 
-<!--- TODO: add HTML screenshot --->
+![html light](screenshots/syntax/html-light.png)
+![html dark](screenshots/syntax/html-dark.png)
 
 ### CSS
 
-<!--- TODO: add CSS screenshot --->
+![css light](screenshots/syntax/css-light.png)
+![css dark](screenshots/syntax/css-dark.png)
 
 ### JS
 
-<!--- TODO: add JS screenshot --->
+![js light](screenshots/syntax/javascript-light.png)
+![js dark](screenshots/syntax/javascript-dark.png)
 
 ### JSX
 
-<!--- TODO: add JSX screenshot --->
+![jsx light](screenshots/syntax/jsx-light.png)
+![jsx dark](screenshots/syntax/jsx-dark.png)
 
 ### TS
 
-<!--- TODO: add TS screenshot --->
+![ts light](screenshots/syntax/typescript-light.png)
+![ts dark](screenshots/syntax/typescript-dark.png)
 
 ### TSX
 
-<!--- TODO: add TSX screenshot --->
+![tsx light](screenshots/syntax/tsx-light.png)
+![tsx dark](screenshots/syntax/tsx-dark.png)
 
 ### JSON
 
-<!--- TODO: add JSON screenshot --->
+![json light](screenshots/syntax/json-light.png)
+![json dark](screenshots/syntax/json-dark.png)
 
 ### YAML
 
-<!--- TODO: add YAML screenshot --->
+![yaml light](screenshots/syntax/yaml-light.png)
+![yaml dark](screenshots/syntax/yaml-dark.png)
 
 ### TOML
 
-<!--- TODO: add TOML screenshot --->
+![toml light](screenshots/syntax/toml-light.png)
+![toml dark](screenshots/syntax/toml-dark.png)
 
 ### SVG
 
-<!--- TODO: add SVG screenshot --->
+![svg light](screenshots/syntax/svg-light.png)
+![svg dark](screenshots/syntax/svg-dark.png)
 
 ### .env
 
-<!--- TODO: add .env screenshot --->
+![dotenv light](screenshots/syntax/dotenv-light.png)
+![dotenv dark](screenshots/syntax/dotenv-dark.png)
 
 ### dockerfile
 
-<!--- TODO: add dockerfile screenshot --->
+![dockerfile light](screenshots/syntax/dockerfile-light.png)
+![dockerfile dark](screenshots/syntax/dockerfile-dark.png)
 
 ### markdown
 
-<!--- TODO: add .md screenshot --->
+![markdown light](screenshots/syntax/markdown-light.png)
+![markdown dark](screenshots/syntax/markdown-dark.png)
